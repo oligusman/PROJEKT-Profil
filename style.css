@@ -17,3 +17,34 @@ html { box-sizing: border-box; }
 body {
 	background-color: #bdc3c7;
 }
+
+.profil {
+	height: 500px;
+	width: 300px;
+	padding: 20px 10px 0 0;
+	background-color:#31363b;
+	box-sizing: content-box;
+	position:absolute;
+	top:50px;
+	left:20px;
+	color:white;
+}
+
+
+p {
+font-size: medium;
+text-align: left;
+
+}
+
+.foto {
+width: 60%;
+height: 60%;
+position: relative;
+	
+}
+
+.logo{
+	
+
+}
